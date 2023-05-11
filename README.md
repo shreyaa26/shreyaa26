@@ -9,5 +9,5 @@ I'm a B.Tech student majoring in Computer Science and Engineering at IGDTUW, Del
 ## 🌱 Currently Learning
 I am currently strengthening my front-end development skills and learning more about data structures and algorithms.
 ## 📫 Let's Connect
-You can find me on [LinkedIn](https://www.linkedin.com/in/shreya-saroha-a9222922a/) and [GitHub](https://github.com/shreyaa26). Feel free to reach out to me via [email](sarohashreya1102@gmail.com).
+You can find me on [LinkedIn](https://www.linkedin.com/in/shreya-saroha-a9222922a/) and [GitHub](https://github.com/shreyaa26). Feel free to reach out to me via email at sarohashreya1102@gmail.com.
 
