@@ -7,7 +7,7 @@ I'm a B.Tech student majoring in Computer Science and Engineering at IGDTUW, Del
 ## 💻 Skills
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![C](https://img.icons8.com/color/48/000000/c-programming.png) ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ## 🌱 Currently Learning
-I am currently strengthening my **front-end development skills** and learning more about **data structures and algorithms**.
+I am currently strengthening my **Android app development skills in Java** and learning more about **data structures and algorithms**.
 ## 📄 Resume
 You can find my resume [here](https://drive.google.com/file/d/1v8GCxuLTM6sYq-Vc-p0f0_57APZtnBZs/view?usp=sharing).
 ## 📫 Let's Connect
