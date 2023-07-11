@@ -1,6 +1,7 @@
 # Hi there!👋 I'm Shreya Saroha
 I'm a B.Tech student majoring in Computer Science and Engineering at IGDTUW, Delhi. I'm passionate about programming, problem-solving, and exploring new technologies.
 ## 🚀 Projects
+* **Get started with Naruto** - A website that provides a comprehensive guide to the Naruto anime developed using HTML, CSS, and JavaScript. It allows users to watch episodes, learn about the series, and purchase Naruto manga volumes and merchandise. You can check out the project [here](https://github.com/shreyaa26/Get-started-with-Naruto).
 * **The Dice Game** - I developed a front-end web application using HTML, CSS, and JavaScript that simulates a dice game. You can check out the project [here](https://github.com/shreyaa26/The-Dice-Game).
 * **Dragon Warrior** - A 2D Platform game made on Unity. The game consists of 3 levels. The goal of the player is to clear all levels without exhausting its life. You can check out the project [here](https://github.com/shreyaa26/Dragon-Warrior).
 * **Tic Tac Toe** - A simple and straightforward implementation of the classic Tic Tac Toe game using Java. You can check out the project [here](https://github.com/shreyaa26/Tictactoe).
