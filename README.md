@@ -6,7 +6,7 @@ I'm a B.Tech student majoring in Computer Science and Engineering at IGDTUW, Del
 * **Dragon Warrior** - A 2D Platform game made on Unity. The game consists of 3 levels. The goal of the player is to clear all levels without exhausting its life. You can check out the project [here](https://github.com/shreyaa26/Dragon-Warrior).
 * **Tic Tac Toe** - A simple and straightforward implementation of the classic Tic Tac Toe game using Java. You can check out the project [here](https://github.com/shreyaa26/Tictactoe).
 ## 💻 Skills
-![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![Java](https://camo.githubusercontent.com/7baf2b33991fb19a450f2202d4bfab478af93fda8b2822797e7c3fce6cd47f77/68747470733a2f2f736b696c6c732e7468696a732e67672f69636f6e733f693d6a6176612c6b6f746c696e2c6e6f64656a732c6669676d61267468656d653d6c69676874) ![Python](https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg) ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![C](https://img.icons8.com/color/48/000000/c-programming.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![Java](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWXPc3YcjCP-66j1rCaeJ8uadoq9bcQ7JUwA&usqp=CAU) ![Python]() ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![C](https://img.icons8.com/color/48/000000/c-programming.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ## 🌱 Currently Learning
 I am currently strengthening my **Front-end development skills** and learning more about **data structures and algorithms**.
 ## 📄 Resume
