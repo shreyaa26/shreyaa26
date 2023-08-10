@@ -14,7 +14,10 @@ I am currently strengthening my **Front-end development skills** and learning mo
 
 ## ⭐ GitHub Stats
 
-![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=shreyaa26&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=shreyaa26&show_icons=true)
+
+## 🥇 Most Used languages
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaa26&theme=blue-green)
 
 ## 📄 Resume
 You can find my resume [here](https://drive.google.com/file/d/1R_z24b5LsiJwShu1BFMjz_DHFQXA2OUf/view?usp=sharing).
