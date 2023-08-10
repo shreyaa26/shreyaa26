@@ -8,6 +8,9 @@ I'm a B.Tech student majoring in Computer Science and Engineering at IGDTUW, Del
 * **Tic Tac Toe** - A simple and straightforward implementation of the classic Tic Tac Toe game using Java. You can check out the project [here](https://github.com/shreyaa26/Tictactoe).
 ## 💻 Skills
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![C](https://img.icons8.com/color/48/000000/c-programming.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+
+![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=shreyaa26&show_icons=true)
+
 ## 🌱 Currently Learning
 I am currently strengthening my **Front-end development skills** and learning more about **data structures and algorithms**.
 ## 📄 Resume
