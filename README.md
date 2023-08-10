@@ -12,7 +12,7 @@ I'm a B.Tech student majoring in Computer Science and Engineering at IGDTUW, Del
 ## 🌱 Currently Learning
 I am currently strengthening my **Front-end development skills** and learning more about **data structures and algorithms**.
 
-## My HitHub Stats
+## ⭐ GitHub Stats
 
 ![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=shreyaa26&show_icons=true)
 
