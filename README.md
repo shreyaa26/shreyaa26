@@ -9,10 +9,13 @@ I'm a B.Tech student majoring in Computer Science and Engineering at IGDTUW, Del
 ## 💻 Skills
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![C](https://img.icons8.com/color/48/000000/c-programming.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 
-![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=shreyaa26&show_icons=true)
-
 ## 🌱 Currently Learning
 I am currently strengthening my **Front-end development skills** and learning more about **data structures and algorithms**.
+
+## My HitHub Stats
+
+![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=shreyaa26&show_icons=true)
+
 ## 📄 Resume
 You can find my resume [here](https://drive.google.com/file/d/1R_z24b5LsiJwShu1BFMjz_DHFQXA2OUf/view?usp=sharing).
 ## 📫 Let's Connect
