@@ -7,7 +7,7 @@ I'm a B.Tech student majoring in Computer Science and Engineering at IGDTUW, Del
 * **Dragon Warrior** - A 2D Platform game made on Unity. The game consists of 3 levels. The goal of the player is to clear all levels without exhausting its life. You can check out the project [here](https://github.com/shreyaa26/Dragon-Warrior).
 
 ## 💻 Skills
-![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![C](https://img.icons8.com/color/48/000000/c-programming.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![NodeJs](https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png)
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![C](https://img.icons8.com/color/48/000000/c-programming.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 
 ## 🌱 Currently Learning
 I am currently strengthening my **Front-end development skills** and learning more about **data structures and algorithms**.
