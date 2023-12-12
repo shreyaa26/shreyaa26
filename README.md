@@ -11,7 +11,7 @@ I'm a B.Tech student majoring in Computer Science and Engineering at IGDTUW, Del
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![C](https://img.icons8.com/color/48/000000/c-programming.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 
 ## 🌱 Currently Learning
-I am currently strengthening my **Front-end development skills** and learning more about **data structures and algorithms**.
+I am currently learning **Full-stack development** and strengthening my **problem solving skills**.
 
 ## ⭐ GitHub Stats
 
