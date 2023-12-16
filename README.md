@@ -1,5 +1,5 @@
 # Hi there!👋 I'm Shreya Saroha
-I'm a B.Tech student majoring in Computer Science and Engineering at IGDTUW, Delhi. I'm passionate about programming, problem-solving, and exploring new technologies.
+I'm a B.Tech student majoring in Computer Science and Engineering at IGDTUW, Delhi. I'm a continuous learner with a growth mindset, constantly looking for new opportunities to utilize my skills and experience to solve problems by creating innovative solutions that have a meaningful impact.
 ## 🚀 Projects
 * **Easy-Peasy Recipes** - A user-friendly website with thorough ingredient lists and detailed recipes. Check out the project [here](https://shreyaa26.github.io/Easy-Peasy-Recipes/)
 * **Get started with Naruto** - A website that provides a comprehensive guide to the Naruto anime developed using HTML, CSS, and JavaScript. It allows users to watch episodes, learn about the series, and purchase Naruto manga volumes and merchandise. Check out the project [here](https://github.com/shreyaa26/Get-started-with-Naruto)
