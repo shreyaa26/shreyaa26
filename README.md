@@ -2,7 +2,7 @@
 I'm a B.Tech student majoring in Computer Science and Engineering at IGDTUW, Delhi. I'm a passionate learner with a growth mindset, eager to leverage skills and experience to create impactful solutions.
 ## 🚀 Projects
 ### Web Development
-* **Get started with Naruto** - Comprehensive guide website for the Naruto anime (HTML, CSS, JavaScript). Users can watch episodes, learn about the series, and purchase merchandise. [Link to project] (https://github.com/shreyaa26/Get-started-with-Naruto)
+* **Get started with Naruto** - Comprehensive guide website for the Naruto anime (HTML, CSS, JavaScript). Users can watch episodes, learn about the series, and purchase merchandise. [Link to project](https://github.com/shreyaa26/Get-started-with-Naruto)
 *  **Career Connect** - Platform connecting students with college seniors who secured positions in their dream companies. (HTML, CSS, JavaScript) [Link to project](https://github.com/shreyaa26/Career-Connect)
 * **BlogRoom** - Responsive blog website for browsing and accessing categorized blogs. (HTML, CSS, JavaScript) [Link to project](https://github.com/shreyaa26/BlogRoom)
 * **Easy-Peasy Recipes** - User-friendly recipe website with detailed ingredients and instructions. (HTML, CSS, JavaScript) [Link to project](https://shreyaa26.github.io/Easy-Peasy-Recipes/)
