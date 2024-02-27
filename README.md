@@ -24,7 +24,7 @@ I am currently learning **Full-stack development** and strengthening my **proble
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaa26&theme=blue-green)
 
 ## Resume
-You can find my resume [here](https://drive.google.com/file/d/1pZ5E70nFi_2qElA3KtI1ulph3z1xnyAt/view?usp=sharing).
+You can find my resume [here](https://drive.google.com/file/d/1uS-NdFNBdjSt0YHApgoKtjZ7JYs7nbDH/view?usp=sharing).
 ## Let's Connect
 You can find me on [LinkedIn](https://www.linkedin.com/in/shreya-saroha-a9222922a/) and [GitHub](https://github.com/shreyaa26). Feel free to reach out to me via email at sarohashreya1102@gmail.com. Thank you for visiting my profile! I'm always looking for new opportunities to learn and grow as a developer.
 
