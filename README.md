@@ -2,12 +2,12 @@
 I'm a B.Tech student majoring in Computer Science and Engineering at IGDTUW, Delhi. I'm a passionate learner with a growth mindset, eager to leverage skills and experience to create impactful solutions.
 ## 🚀 Projects
 ### Web Development
-* **Get started with Naruto** - A website that provides a comprehensive guide to the Naruto anime developed using HTML, CSS, and JavaScript. It allows users to watch episodes, learn about the series, and purchase Naruto manga volumes and merchandise. Check out the project [here](https://github.com/shreyaa26/Get-started-with-Naruto)
-*  **Career Connect** - A website that bridges students with real success stories, linking them with college seniors who secured positions in their dream companies. Check out the project [here](https://github.com/shreyaa26/Career-Connect)
-* **BlogRoom** - A responsive blog website for browsing and accessing blogs based on various categories. Check out the project [here](https://github.com/shreyaa26/BlogRoom)
-* **Easy-Peasy Recipes** - A user-friendly website with thorough ingredient lists and detailed recipes. Check out the project [here](https://shreyaa26.github.io/Easy-Peasy-Recipes/)
+* **Get started with Naruto** - Comprehensive guide website for the Naruto anime (HTML, CSS, JavaScript). Users can watch episodes, learn about the series, and purchase merchandise. [Link to project] (https://github.com/shreyaa26/Get-started-with-Naruto)
+*  **Career Connect** - Platform connecting students with college seniors who secured positions in their dream companies. (HTML, CSS, JavaScript) [Link to project](https://github.com/shreyaa26/Career-Connect)
+* **BlogRoom** - Responsive blog website for browsing and accessing categorized blogs. (HTML, CSS, JavaScript) [Link to project](https://github.com/shreyaa26/BlogRoom)
+* **Easy-Peasy Recipes** - User-friendly recipe website with detailed ingredients and instructions. (HTML, CSS, JavaScript) [Link to project](https://shreyaa26.github.io/Easy-Peasy-Recipes/)
 ### Game Development
-* **Dragon Warrior** - A 2D Platform game made on Unity. The game consists of 3 levels. The goal of the player is to clear all levels without exhausting its life. Check out the project [here](https://github.com/shreyaa26/Dragon-Warrior)
+* **Dragon Warrior** - 2D platform game on Unity with three levels, requiring the player to reach the end without losing life. (Unity, C#) [Link to project](https://github.com/shreyaa26/Dragon-Warrior)
 
 ## 💻 Skills
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![C](https://img.icons8.com/color/48/000000/c-programming.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
