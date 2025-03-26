@@ -15,12 +15,6 @@ Hi! I'm a B.Tech student majoring in Computer Science and Engineering. I'm a pas
 ## Currently Learning
 I am currently learning **Full-stack development** and strengthening my **problem solving skills**.
 
-## GitHub Stats
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=shreyaa26&show_icons=true)
-
-## Most Used languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaa26&theme=blue-green)
 
 
 
